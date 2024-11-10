@@ -40,7 +40,8 @@ b<= a;
 end
 endmodule
 
-OUTPUT:![verilog output](https://github.com/user-attachments/assets/77b6eb3a-0668-44f9-b1fd-24ec5db6f7cc)
+OUTPUT:![SWAPPING](https://github.com/user-attachments/assets/bba515ab-a0c6-44ad-bff8-c069f05af311)
+
 
 
 Testbench for Swapping Three Numbers:
@@ -58,7 +59,8 @@ module swap(clk);
     end
 endmodule
 
-OUTPUT:![testbench](https://github.com/user-attachments/assets/ea5f50b7-10b7-4c38-869c-bf20ef1daa24)
+OUTPUT:![SWAPPING TEST](https://github.com/user-attachments/assets/6378e56d-77f0-4a5c-94db-7ec2eaf8e2d8)
+
 
 
 Conclusion
