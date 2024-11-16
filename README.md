@@ -40,7 +40,7 @@ b<=a;
 end
 endmodule
 ```
-#OUTPUT:
+#OUTPUT
 ![SWAPPING](https://github.com/user-attachments/assets/bba515ab-a0c6-44ad-bff8-c069f05af311)
 
 
@@ -60,7 +60,7 @@ module swap(clk);
     end
 endmodule
 ```
-#OUTPUT:
+#OUTPUT
 ![SWAPPING TEST](https://github.com/user-attachments/assets/6378e56d-77f0-4a5c-94db-7ec2eaf8e2d8)
 
 
